@@ -304,4 +304,4 @@ void print() const{ // вывод таблицы на экран
 ### Скриншот из симулятора кастомных хэш-функций 
 
 
-![alt-текст](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Скриншот из симулятора кастомных хэш-функций")
+![alt-текст](https://github.com/BMSTU-Informatics-by-nuchyobitva/2-developing-hash-tables-Laneers/blob/main/2025-03-06_01-37-27.png "Скриншот из симулятора кастомных хэш-функций")
