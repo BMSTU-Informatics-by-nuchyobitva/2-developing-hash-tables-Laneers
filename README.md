@@ -147,6 +147,8 @@ HashTable(size_t initial_size = 11) { // конструктор, по умолч
 
 
 **Методы insert и remove**  
+
+
 *Insert*
 ```c++
 void insert(const std::string& key, Cat& value) { // вставка элемента
@@ -195,6 +197,8 @@ bool remove(const std::string key) { // true - если удалось удал�
 
 
 **Прочие методы класса**
+
+
 *Find*
 ```c++
 bool find(const std::string& key, const Cat& value) const{ // поиск элемента по ключу
